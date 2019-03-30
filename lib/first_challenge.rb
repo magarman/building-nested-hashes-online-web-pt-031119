@@ -1,5 +1,5 @@
 epic_tragedy = {
-  montague: {},
-  capulet: {}
+  :montague => {},
+  :capulet => {}
 }
    
